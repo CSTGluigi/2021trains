@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1685068703 source:c:\users\administrator\desktop\tcs\main.cpp
+	"snake.h"
+	<thread>
+	<windows.h>
+	<conio.h>
+
+1685068588 source:c:\users\administrator\desktop\tcs\snake.cpp
+	"snake.h"
+	"global.h"
+	<windows.h>
+	<memory.h>
+	<time.h>
+	<iostream>
+
+1685067233 c:\users\administrator\desktop\tcs\snake.h
+	"point.h"
+	<vector>
+
+1685063801 c:\users\administrator\desktop\tcs\point.h
+
+1685067828 c:\users\administrator\desktop\tcs\global.h
+	"point.h"
+	<stdio.h>
+
+1685067089 c:\users\administrator\desktop\tcs\snake.cpp
+	"snake.h"
+	"global.h"
+	<windows.h>
+	<memory.h>
+	<time.h>
+	<iostream>
+
